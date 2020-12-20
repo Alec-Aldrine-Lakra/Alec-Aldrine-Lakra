@@ -6,7 +6,7 @@
 - 🔭 I’m currently working at VComply
 - 🌱 I’m currently learning Javascript, Node.JS, Angular, MongoDB, Systems Design
 - 💬 Ask me anything about the web, markets or the economy 😄
-- 📫 How to reach me: 
+- 📫 How to reach me: [Facebook - Alec-Aldrine-Lakra](https://www.facebook.com/alecaldrine.lakra.1)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Foodie, Explorer, Experiential Learner
 
