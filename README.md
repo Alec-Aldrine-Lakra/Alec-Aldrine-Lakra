@@ -19,4 +19,4 @@
 <code><img height="20" src="https://cdn.worldvectorlogo.com/logos/typescript.svg"></code>
 <code><img height="20" src="https://cdn.worldvectorlogo.com/logos/google-assistant.svg"></code>   
 
-<img align="center" src="https://github-readme-stats.vercel.app/api//?username=Alec-Aldrine-Lakra>&theme=" />
+<img align="center" src="https://github-readme-stats.vercel.app/api//?username=Alec-Aldrine-Lakra&theme=" />
