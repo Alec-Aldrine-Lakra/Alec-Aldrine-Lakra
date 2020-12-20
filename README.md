@@ -10,3 +10,11 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Foodie, Explorer, Experiential Learner
 
+**Languages and Tools:**  
+
+<code><img height="20" src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg"></code>
+<code><img height="20" src="https://cdn.worldvectorlogo.com/logos/pwa-pass-3.svg"></code>
+<code><img height="20" src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg"></code>
+<code><img height="20" src="https://cdn.worldvectorlogo.com/logos/circleci.svg"></code>
+<code><img height="20" src="https://cdn.worldvectorlogo.com/logos/typescript.svg"></code>
+<code><img height="20" src="https://cdn.worldvectorlogo.com/logos/google-assistant.svg"></code>   
