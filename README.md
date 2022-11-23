@@ -4,7 +4,7 @@
 **Alec-Aldrine-Lakra/Alec-Aldrine-Lakra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 - 🔭 I’m currently working at Wingify
-- 🌱 I’m currently learning Javascript, Node.JS, Angular, MongoDB, Systems Design
+- 🌱 I’m currently learning Javascript, Node.JS, React, Angular, MongoDB, System Design, GCP
 - 💬 Ask me anything about the web, markets or the economy 😄
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/alec-aldrine-lakra/)
 - 😄 Pronouns: He/His
