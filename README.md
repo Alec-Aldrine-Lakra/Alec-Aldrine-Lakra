@@ -3,8 +3,8 @@
 <!--
 **Alec-Aldrine-Lakra/Alec-Aldrine-Lakra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-- 🔭 I’m currently working at Clippd
-- 🌱 I’m currently learning Typescript, GraphQL, Tailwind CSS, Javascript, Node.JS, React, Angular, MongoDB, System Design, GCP
+- 🔭 I’m currently working at Launchdarkly
+- 🌱 I’m currently learning Typescript, GraphQL, Tailwind CSS, Javascript, Node.JS, React, MongoDB, System Design, GCP
 - 💬 Ask me anything about the web, markets or the economy 😄
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/alec-aldrine-lakra/)
 - 😄 Pronouns: He/His
